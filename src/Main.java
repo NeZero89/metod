@@ -53,7 +53,7 @@ public class Main {
 
     public static void task3() {
         System.out.println("Задача №3");
-        int diliveryDistsnce=100;
+        int diliveryDistsnce=11;
         diliveryDistance(diliveryDistsnce);
 
     }
